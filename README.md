@@ -52,3 +52,10 @@
 3. https://school.programmers.co.kr/learn/courses/30/lessons/12953, https://school.programmers.co.kr/learn/courses/30/lessons/60057
 4. https://school.programmers.co.kr/learn/courses/30/lessons/42747, https://school.programmers.co.kr/learn/courses/30/lessons/42584
 5. https://school.programmers.co.kr/learn/courses/30/lessons/87946, https://school.programmers.co.kr/learn/courses/30/lessons/17686
+
+#### 8주차
+1. https://school.programmers.co.kr/learn/courses/30/lessons/12952, https://school.programmers.co.kr/learn/courses/30/lessons/92341
+2. https://school.programmers.co.kr/learn/courses/30/lessons/181188, https://school.programmers.co.kr/learn/courses/30/lessons/42584
+3. https://school.programmers.co.kr/learn/courses/30/lessons/140107, https://school.programmers.co.kr/learn/courses/30/lessons/42626
+4. https://school.programmers.co.kr/learn/courses/30/lessons/178870, https://school.programmers.co.kr/learn/courses/30/lessons/92335
+5. https://school.programmers.co.kr/learn/courses/30/lessons/12900, https://school.programmers.co.kr/learn/courses/30/lessons/87390
